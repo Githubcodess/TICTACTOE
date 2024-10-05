@@ -19,7 +19,7 @@ networks or ArcFace.
 
 
 3.RECOMMENDATION
-CreatING a simple recommendation system that suggests items to
+Creating a simple recommendation system that suggests items to
 users based on their preferences. By using techniques like
 collaborative filtering or content-based filtering to recommend
 movies, books, or products to users.
